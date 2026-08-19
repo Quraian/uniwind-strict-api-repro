@@ -1,0 +1,17 @@
+{
+  "name": "uniwind-strict-api-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "19.2.3",
+    "react-native": "0.86.2",
+    "uniwind": "1.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.0",
+    "typescript": "~5.9.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-jsx",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "customConditions": ["react-native", "react-native-strict-api"],
+    "skipLibCheck": true,
+    "noEmit": true
+  },
+  "include": ["src"]
+}
